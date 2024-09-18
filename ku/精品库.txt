@@ -1,12 +1,5 @@
-{
-  "urls": [
-    {
-      "url": "https://atomgit.com/tvkj/feilong/raw/main/svip.json",
-      "name": "🚀搜集中稍后更新...🚀"
-    },
-    {
-      "url": "https://atomgit.com/tvkj/feilong/raw/main/svip.json",
-      "name": "🚀搜集中稍后更新...🚀"
-    }
-  ]
-}
+{ "urls": [{ "url": "http://tv.ttvv.world/tv.json", "name": "公众号[新奇广告]回复666获取接口" },
+
+{ "url": "http://tv.ttvv.world/tv.json", "name": "公众号[新奇广告]回复666获取接口" },
+
+{ "url": "http://tv.ttvv.world/tv.json", "name": "公众号[新奇广告]回复666获取接口" }]}
