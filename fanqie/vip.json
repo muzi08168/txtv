@@ -1,21 +1,18 @@
 {
-  "spider": "https://gitee.com/iitvbox/jar/raw/master/天天开心/ttkx.jar",
-  "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
+  "spider": "https://gitee.com/iitvbox/jar/raw/master/%E6%AC%A7%E6%AD%8C/ou.jar",
+  "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "logo": "http://我不是.肥猫.live/fatcat.jpg",
   "sites": [
-      {
-      "key": "js_豆瓣热播",
-      "name": "接口即将停止进Q群①711431066",
+    {
+      "key": "drpy_js_豆瓣",
+      "name": "公众号[新奇广告]回复666获取最新接口",
       "type": 3,
-      "api": "http://rihou.cc:88/hccx/Api.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://rihou.cc:88/hccx/Doubanrebo.js"
+      "api": "csp_Douban",
+      "searchable": 0
     },
     {
       "key": "push_agent",
-      "name": "接口即将停止进Q群①243365204",
+      "name": "公众号[新奇广告]回复666获取最新接口",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
@@ -35,7 +32,7 @@
       "url": "Web"
     },
     {
-      "name": "公众号：茄子库",
+      "name": "解析",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
       "ext": {
@@ -72,7 +69,7 @@
     {
       "name": "解析",
       "type": 1,
-      "url": "http://139.159.149.14:8019/api/?url=",
+      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
       "ext": {
         "flag": [
           "qq",
@@ -110,7 +107,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "https://hub.gitmirror.com/https://raw.githubusercontent",
+      "url": "https://notdasd.org/pdscxz/zbdz/raw/4a7cd06c012ed624f9458e6c60872404415a3fdb/123.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
