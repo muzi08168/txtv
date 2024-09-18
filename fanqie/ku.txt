@@ -1,32 +1,5 @@
-{
-  "urls": [
-    {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/fanqie/vip.json",
-      "name": "🍅VIP接口"
-    },
-    {
-      "url": "https://gitee.com/dongchenys/liu/raw/master/hc.json",
-      "name": "东辰接口"
-    },
-    {
-      "url": "https://www.xn--sss604efuw.com/tv",
-      "name": "饭太硬"
-    },
-    {
-      "url": "http://肥猫.com",
-      "name": "肥猫"
-    },
-    {
-      "url": "http://xiaohu.xzam.cn/xiaohu",
-      "name": "小胡"
-    },
-    {
-      "url": "http://rihou.vip:55/天天开心",
-      "name": "天天开心"
-    },
-    {
-      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
-      "name": "讴歌在线"
-    }
-  ]
-}
+{ "urls": [{ "url": "http://tv.ttvv.world/tv.json", "name": "公众号[新奇广告]回复666获取接口" },
+
+{ "url": "http://tv.ttvv.world/tv.json", "name": "公众号[新奇广告]回复666获取接口" },
+
+{ "url": "http://tv.ttvv.world/tv.json", "name": "公众号[新奇广告]回复666获取接口" }]}
